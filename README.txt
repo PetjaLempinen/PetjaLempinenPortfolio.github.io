@@ -1,1 +1,2 @@
-My personal portfolio to story my achievements and projects.
+My personal portfolio to store my achievements and projects.
+
